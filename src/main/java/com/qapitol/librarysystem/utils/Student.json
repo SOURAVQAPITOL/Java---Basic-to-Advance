@@ -1,0 +1,83 @@
+[ {
+  "id" : 12,
+  "name" : "sourav",
+  "age" : 25,
+  "mobileNumber" : 57634534,
+  "addresses" : null,
+  "books" : null,
+  "borrowedBooks" : null
+}, {
+  "id" : 77,
+  "name" : "kavya",
+  "age" : 44,
+  "mobileNumber" : 345678,
+  "addresses" : null,
+  "books" : null,
+  "borrowedBooks" : null
+}, {
+  "id" : 21,
+  "name" : "ssoouurraavv",
+  "age" : 34,
+  "mobileNumber" : 75863452463,
+  "addresses" : null,
+  "books" : null,
+  "borrowedBooks" : null
+}, {
+  "id" : 1234,
+  "name" : "saarang",
+  "age" : 25,
+  "mobileNumber" : 9876543567,
+  "addresses" : null,
+  "books" : null,
+  "borrowedBooks" : [ {
+    "bookID" : 1111,
+    "subject" : "QA",
+    "bookCount" : 3,
+    "students" : null
+  } ]
+}, {
+  "id" : 9878,
+  "name" : "sivamm",
+  "age" : 65,
+  "mobileNumber" : 5643,
+  "addresses" : null,
+  "books" : null,
+  "borrowedBooks" : null
+}, {
+  "id" : 9090909,
+  "name" : "fhjhsdh",
+  "age" : 26,
+  "mobileNumber" : 45634,
+  "addresses" : [ null ],
+  "books" : null,
+  "borrowedBooks" : null
+}, {
+  "id" : 43412,
+  "name" : "etyrv",
+  "age" : 45,
+  "mobileNumber" : 456343,
+  "addresses" : [ {
+    "streetName" : "ghdfbgdf",
+    "completeAddress" : "fghdbdvf",
+    "pincode" : 4545
+  } ],
+  "books" : null,
+  "borrowedBooks" : [ {
+    "bookID" : 2222,
+    "subject" : "Selenium",
+    "bookCount" : 3,
+    "students" : null
+  } ]
+}, {
+  "id" : 6563,
+  "name" : "riaz",
+  "age" : 43,
+  "mobileNumber" : 43567882,
+  "addresses" : [ {
+    "streetName" : "tdsrfhg",
+    "completeAddress" : "ydrfhgj",
+    "pincode" : 66775
+  } ],
+  "books" : null,
+  "borrowedBooks" : null
+} ]
